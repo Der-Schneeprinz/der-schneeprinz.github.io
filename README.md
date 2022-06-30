@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to der Schneeland!
 
 You can use the [editor on GitHub](https://github.com/Der-Schneeprinz/der-schneeprinz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
