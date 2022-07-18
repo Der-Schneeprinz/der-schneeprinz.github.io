@@ -15,7 +15,7 @@ Here are some of my works I made throughout the years that I was able to compile
 
 ### Blogsite Sample
 
-![BlogSite](https://github.com/Der-Schneeprinz/der-schneeprinz.github.io/blob/main/img/Blog%20Site.JPG)
+![BlogSite](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/Blog%20Site.JPG)
 
 This site was built using Bootstrap and SCSS. It was a requirement for the elective taken during my second year.
 
