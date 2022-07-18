@@ -21,21 +21,21 @@ This site was built using Bootstrap and SCSS. It was a requirement for the elect
 
 ### Mobile Application
 
-![PUPOS1](https://github.com/Der-Schneeprinz/der-schneeprinz.github.io/blob/main/img/PUPOS1.jpg)
-![PUPOS2](https://github.com/Der-Schneeprinz/der-schneeprinz.github.io/blob/main/img/PUPOS2.jpg)
-![PUPOS3](https://github.com/Der-Schneeprinz/der-schneeprinz.github.io/blob/main/img/PUPOS3.jpg)
+![PUPOS1](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/PUPOS1.jpg)
+![PUPOS2](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/PUPOS2.jpg)
+![PUPOS3](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/PUPOS3.jpg)
 
 This mobile application is currently being worked on. This application will function as a social media site for organizations in the Polytechnic University of the Philippines.
 
 ### Other websites
 
-![ActivityWebsite](https://github.com/Der-Schneeprinz/der-schneeprinz.github.io/blob/main/img/Activity%20Website.JPG)
-![CoffeeshopWebsite](https://github.com/Der-Schneeprinz/der-schneeprinz.github.io/blob/main/img/Coffeeshop%20Website.JPG)
+![ActivityWebsite](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/Activity%20Website.JPG)
+![CoffeeshopWebsite](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/Coffeeshop%20Website.JPG)
 
 These websites were created for the use of PHP as required by the proctor. The requirement also stipulates that no web frameworks be used.
 
 ### Ulam Bugdet Saver Application
 
-![Knapsack](https://github.com/Der-Schneeprinz/der-schneeprinz.github.io/blob/main/img/Knapsack%20Ulam%20Saver.JPG)
+![Knapsack](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/Knapsack%20Ulam%20Saver.JPG)
 
 This applcaiton is used for maximizing the budget of the user when choosing a certain item from the menu. The user can also select to record the transaction in the history file of the application.
