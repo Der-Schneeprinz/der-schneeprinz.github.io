@@ -5,7 +5,7 @@
 - [Linkedin](linkedin.com/in/matthew-olaguer-683885245)
 - [Facebook](facebook.com/Flint.Oldfield)
 
-### Visit my art [portfolio](https://matt-art-port.carrd.co/)!
+### Visit my [art portfolio](https://matt-art-port.carrd.co/)!
 
 ## About me
 
