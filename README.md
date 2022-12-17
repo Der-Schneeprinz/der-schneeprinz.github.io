@@ -5,8 +5,6 @@
 - [Linkedin](linkedin.com/in/matthew-olaguer-683885245)
 - [Facebook](facebook.com/Flint.Oldfield)
 
-### Visit my [art portfolio](https://matt-art-port.carrd.co/)!
-
 ## About me
 
 **Good day!** I have been studying as a student at Polytechnic University of the Philippines in the program of *BS Computer Science*. for 3 years. It would be a most welcome opportunity to experience working in an environment that will bring out the best in my abilities.
@@ -23,9 +21,9 @@ This site was built using Bootstrap and SCSS. It was a requirement for the elect
 
 ### Mobile Application
 
-![PUPOS1](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/PUPOS1.jpg)
-![PUPOS2](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/PUPOS2.jpg)
-![PUPOS3](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/PUPOS3.jpg)
+![PUPOS1](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/PUPOS1.png)
+![PUPOS2](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/PUPOS2.png)
+![PUPOS3](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/PUPOS3.png)
 
 This mobile application is currently being worked on. This application will function as a social media site for organizations in the Polytechnic University of the Philippines.
 
