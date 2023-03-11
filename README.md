@@ -5,8 +5,6 @@
 - [Linkedin](linkedin.com/in/matthew-olaguer-683885245)
 - [Facebook](facebook.com/Flint.Oldfield)
 
-### Visit my [Illustrations Portfolio](https://matt-art-port.carrd.co/)!
-
 ## About me
 
 **Good day!** I have been studying as a student at Polytechnic University of the Philippines in the program of *BS Computer Science*. for 3 years. It would be a most welcome opportunity to experience working in an environment that will bring out the best in my abilities.
@@ -41,3 +39,5 @@ These websites were created for the use of PHP as required by the proctor. The r
 ![Knapsack](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/Knapsack%20Ulam%20Saver.JPG)
 
 This applcaiton is used for maximizing the budget of the user when choosing a certain item from the menu. The user can also select to record the transaction in the history file of the application.
+
+### Visit my [Illustrations Portfolio](https://matt-art-port.carrd.co/)!
