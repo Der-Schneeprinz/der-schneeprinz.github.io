@@ -13,13 +13,24 @@
 
 Here are some of my works I made throughout the years that I was able to compile.
 
+### Churn Prediction Web App
+
+![ChurnWebsite1](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/Churn%20Website%201.JPG)
+
+This website is a proof of concept for the use for an RFA model. It simulates how the model can be used in a dashboard website. More pictures below.
+
+![ChurnWebsite2](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/Churn%20Website%202.JPG)
+![ChurnWebsite3](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/Churn%20Website%203.JPG)
+![ChurnWebsite4](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/Churn%20Website%204.JPG)
+![ChurnWebsite5](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/Churn%20Website%205.JPG)
+
 ### Mobile Application
 
 ![PUPOS1](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/PUPOS1.png)
 ![PUPOS2](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/PUPOS2.png)
 ![PUPOS3](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/PUPOS3.png)
 
-This mobile application is currently being worked on. This application will function as a social media site for organizations in the Polytechnic University of the Philippines.
+This mobile application was a project for my software development course. This was made using Android Studio. This application functions as a social media site for organizations in the Polytechnic University of the Philippines.
 
 ### Other websites
 
