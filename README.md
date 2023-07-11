@@ -17,7 +17,7 @@ Here are some of my works I made throughout the years that I was able to compile
 
 ![ChurnWebsite1](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/Churn%20Website%201.JPG)
 
-This website is a proof of concept for the use for an RFA model. It simulates how the model can be used in a dashboard website. More pictures below.
+This website is a proof of concept for the use for an RFA model. It simulates how the model can be used in a dashboard website. It was built using React JS as its front-end and Flask API as its back-end.
 
 ![ChurnWebsite2](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/Churn%20Website%202.JPG)
 ![ChurnWebsite3](https://raw.githubusercontent.com/Der-Schneeprinz/der-schneeprinz.github.io/main/img/Churn%20Website%203.JPG)
